@@ -8,8 +8,9 @@ This is a prototype for building a brokerage company's account and trades manage
 [<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](<mailto:bobbilisaieshwarreddy@gmail.com>)
 
 <br/>
+<br/>
 
- Each trade is a JSON entry with the following keys:
+Each trade is a JSON entry with the following keys:
 
 _id_: This is the trade unique ID.
 
