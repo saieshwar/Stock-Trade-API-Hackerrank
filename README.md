@@ -47,7 +47,7 @@ $curl -X POST http://localhost:8080/trades/  -H "content-type: application/json"
 ```
 3. Return a trade filtered by ID, http://localhost:8080/trades/1 (1 -> id of trade).
 4. http://localhost:8080/trades/ , return all trades the response should be sorted in ascending order by trade ID.
-5.  Get all the trades filtered by USER ID,goto http://localhost:8080/trades/users/1 the response should be sorted in ascending order by trade ID.(1 -> id of user)
+5.  Get all the trades filtered by USER ID,goto http://localhost:8080/trades/users/2 the response should be sorted in ascending order by trade ID.(2 -> id of user)
 6. http://localhost:8080/trades/stocks/AA, return all the trades filtered by STOCK SYMBOL the response should be sorted in ascending order by trade ID. (AA -> stock symbol)
 7. Return all the trades filtered by USER ID & STOCK SYMBOL the response should be sorted in ascending order by trade ID, http://localhost:8080/trades/users/2/stocks/AA (2 -> id of user, AA-> stock symbol).
 
