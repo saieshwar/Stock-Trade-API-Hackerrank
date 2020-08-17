@@ -15,17 +15,17 @@ _id_: This is the trade unique ID.
 
 _type_: This is the trade type, buy or sell.
 
-user: The user responsible for the trade. The user itself is a JSON entry consisting of following fields:
+_user_: The user responsible for the trade. The user itself is a JSON entry consisting of following fields:
 
-id: This is the user unique ID.
+_id_: This is the user unique ID.
 
-name: This is the user name.
+_name_: This is the user name.
 
-stock_symbol: This is the stock symbol.
+_stock_symbol_: This is the stock symbol.
 
-stock_price: This is the stock price for one stock (upto two places of decimal) at the time of the trade. The stock price is between 130.42 and 195.65inclusive.
+_stock_price_: This is the stock price for one stock (upto two places of decimal) at the time of the trade. The stock price is between 130.42 and 195.65inclusive.
 
-trade_timestamp: This is the timestamp for the trade creation given in the format yyyy-MM-dd HH:mm:ss. The timezone is EST (UTC -4).
+_timestamp_: This is the timestamp for the trade creation given in the format yyyy-MM-dd HH:mm:ss. The timezone is EST (UTC -4).
 
 # Execution
 ```
