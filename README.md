@@ -21,9 +21,9 @@ _id_: This is the user unique ID.
 
 _name_: This is the user name.
 
-_stock_symbol_: This is the stock symbol.
+_symbol_: This is the stock symbol.
 
-_stock_price_: This is the stock price for one stock (upto two places of decimal) at the time of the trade. The stock price is between 130.42 and 195.65inclusive.
+_price_: This is the stock price for one stock (upto two places of decimal) at the time of the trade. The stock price is between 130.42 and 195.65inclusive.
 
 _timestamp_: This is the timestamp for the trade creation given in the format yyyy-MM-dd HH:mm:ss. The timezone is EST (UTC -4).
 
