@@ -1,5 +1,5 @@
 # Stock-Trade-API-Hackerrank
-This is a prototype for building a brokerage company's account and trades management platform. One Requirement is for a REST API service to manage trades using Spring Boot framework. Add functionality to add or delete transations as well as to perform some queries.
+This is a prototype for building a brokerage company's account and trades management platform. One Requirement is for a REST API service to manage trades using the Spring Boot framework. Add functionality to add or delete transactions as well as to perform some queries.
 
 
 # Reach out to me
